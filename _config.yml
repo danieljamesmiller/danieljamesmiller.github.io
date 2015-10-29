@@ -1,0 +1,22 @@
+# Site settings
+
+title: Daniel James Miller
+email: daniel.j.miller@vanderbilt.edu
+
+description: > # Daniel James Miller website. Full of cool stuff
+
+url: "http://danieljamesmiller.github.io"
+
+# Social links.
+# Replace the word 'example' with your username if you want to include the icon in the left sidebar
+# Delete the word 'example' if you don't want to include the icon in the left sidebar
+
+twitter_username:     phenotype_dan
+github_username:      danieljamesmiller
+linkedin_username:    daniel-miller/64/74b/4b6
+google_plus_username:   # Replace this with your Google+ username
+facebook_username:      # Replace this with your Facebook username
+dribbble_username:      # Replace this with your Dribbble username
+
+# Build settings
+markdown: kramdown
